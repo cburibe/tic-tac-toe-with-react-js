@@ -1,4 +1,16 @@
 
+body {
+    background-color: #928784;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+  
+  }
+  
+  #titulo{
+    color:white;
+  }
 /* 
 
     You can write your own styles here...
